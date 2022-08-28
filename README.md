@@ -2,7 +2,8 @@
 ## Purpose
 
 
-### Election-Audit Results
+
+## Election-Audit Results
 o Number of votes cast in this congressional election: 369,711
 o Breakdown of the number of votes and the percentage of total votes for each county in the precinct: 
           Jefferson: 10.5% (38,855)
