@@ -3,7 +3,7 @@
 
 
 
-## Election-Audit Results
+## Results
 o Number of votes cast in this congressional election: 369,711
 o Breakdown of the number of votes and the percentage of total votes for each county in the precinct: 
           Jefferson: 10.5% (38,855)
@@ -18,3 +18,4 @@ o Candidate that won the election, their vote count, and their percentage of the
           Diana DeGette
           Vote Count: 272,892
           Percentage: 73.8%
+## Summary
