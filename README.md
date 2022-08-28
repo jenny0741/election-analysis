@@ -1,1 +1,2 @@
-# election-analysis
+# Election Audit using Python
+## Purpose
