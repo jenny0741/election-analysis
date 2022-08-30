@@ -1,6 +1,7 @@
 # Election Audit using Python
 ## Purpose
 
+Perform an election audit utilizing python in order to automate the process to produce the results for the election as well as streamline the process for all future congressional districts, senatorials districts, and local elections.
 
 
 
@@ -24,4 +25,4 @@ o Candidate that won the election, their vote count, and their percentage of the
 ### Modifications to the script
 
 1. Modify the script to include or exclude different categories, such as political party affiliation or demographics of the votes
-2. 
+2. Modify the script to compare election results from previous years to identify possible patterns per county
