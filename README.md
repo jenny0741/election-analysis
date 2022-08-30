@@ -26,5 +26,7 @@ Perform an election audit utilizing python in order to automate the process to p
 
 ### Modifications to the script
 
-1. Modify the script to include or exclude different categories, such as political party affiliation or demographics of the votes
+Modifications to the script can be applied to include or exclude certain criteria if more details about the voters is desired. Patterns can also be analyzed by comparing previous electoral candidates and winners.
+
+1. Modify the script to include or exclude different categories, such as political party affiliation or demographics of the voters
 2. Modify the script to compare election results from previous years to identify possible patterns per county
