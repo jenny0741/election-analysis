@@ -3,6 +3,7 @@
 
 
 
+
 ## Results
 o Number of votes cast in this congressional election: 369,711
 o Breakdown of the number of votes and the percentage of total votes for each county in the precinct: 
@@ -18,4 +19,9 @@ o Candidate that won the election, their vote count, and their percentage of the
           Diana DeGette
           Vote Count: 272,892
           Percentage: 73.8%
-## Summary
+### Summary
+
+## Modifications to the script
+
+1. Modify the script to include or exclude different categories, such as political party affiliation or demographics of the votes
+2. 
